@@ -6,7 +6,7 @@
 
 七巧板是一种古老的中国传统智力玩具，其历史至少可以追溯到公元前一世纪，到了明代基本定型。明、清两代在中国民间广泛流传，清陆以湉《冷庐杂识》卷一中写道：近又有七巧图，其式五，其数七，其变化之式多至千余。体物肖形，随手变幻，盖游戏之具，足以排闷破寂，故世俗皆喜为之。” 在 18 世纪，七巧板流传到了国外。李约瑟说它是东方最古老的消遣品之一，至今英国剑桥大学的图书馆里还珍藏着一部《七巧新谱》。
 
-![image](https://user-images.githubusercontent.com/98374648/169778843-970219bb-431e-4fb4-883c-d067b25f501a.png)
+<img src="https://user-images.githubusercontent.com/98374648/169778843-970219bb-431e-4fb4-883c-d067b25f501a.png" width="500" height="500"><br/>
 
 **国旗框线图**
 
@@ -18,4 +18,16 @@
 
 绘制一个标准国旗的框线图，这个难点在对小五角星的角度调整
 
-![image](https://user-images.githubusercontent.com/98374648/169779415-232e3665-6e95-416f-adbf-20d23104ecad.png)
+<img src="https://user-images.githubusercontent.com/98374648/169779415-232e3665-6e95-416f-adbf-20d23104ecad.png" width="500" height="500"><br/>
+
+
+**模拟太阳、地球、月亮三个天体的运动**
+
+画一个红色色的圆表示太阳。
+
+画一个蓝色的圆表示地球。地球以椭圆形轨道围绕太阳旋转。
+
+再画一个黄色的小圆表示月亮，月亮以椭圆轨道围绕地球旋转。
+
+https://user-images.githubusercontent.com/98374648/169781191-afea4a00-395f-4c1f-83c1-266eee8e77ad.mp4
+
