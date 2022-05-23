@@ -16,7 +16,30 @@
 
 **枫叶**
 
-绘制一个标准国旗的框线图，这个难点在对小五角星的角度调整
+double a[5] = { 0.35173,  0.35338, 0.5,    0.5154,   0.00364 };<br/>
+double b[5] = { 0.35537, -0.3537,  0,     -0.0018,   0 };<br/>
+double c[5] = { -0.35537,  0.35373, 0,      0.00157,  0 };<br/>
+double d[5] = { 0.35173,  0.35338, 0.5,    0.58795,  0.57832 };<br/>
+double e[5] = { 0.3545,   0.2879,  0.25,   0.2501,   0.5016 };<br/>
+double f[5] = { 0.5,      0.1528,  0.462,  0.1054,   0.0606 };<br/>
+double p[5] = { 0.1773,   0.38,    0.1773, 0.2091,   0.0563 };<br/>
+随机两个小于1000大于0的点<br/>
+int x = rand() % 999 + 1;<br/>
+int y= rand() % 999 + 1;<br/>
+	for (int i = 0; i < 99999; i++)<br/>
+	{<br/>
+		int j = rand() % 9999;<br/>
+		if (j < 1773) n = 0;<br/>
+		else if (j < 5573) n = 1;<br/>
+		else if (j< 7346) n = 2;<br/>
+		else if (j < 9437) n = 3;<br/>
+		else if (j < 10000) n = 4;<br/>
+
+		m = a[n] * x + b[n] * y + e[n] * 1000;
+		q =c[n] * x + d[n] * y + f[n] * 1000;
+		x = m;
+		y = q;
+		putpixel(x, y, RED);
 
 <img src="https://user-images.githubusercontent.com/98374648/169779415-232e3665-6e95-416f-adbf-20d23104ecad.png" width="500" height="500"><br/>
 
@@ -29,5 +52,11 @@
 
 再画一个黄色的小圆表示月亮，月亮以椭圆轨道围绕地球旋转。
 
-https://user-images.githubusercontent.com/98374648/169781191-afea4a00-395f-4c1f-83c1-266eee8e77ad.mp4
+https://user-images.githubusercontent.com/98374648/169783023-3edb918e-fdb5-4a5e-b175-a68006ade943.mp4
+
+**钟**
+
+绘制一个当前时间的钟表
+
+https://user-images.githubusercontent.com/98374648/169783036-e950f8a5-fae6-4369-81dd-8978219d7058.mp4
 
