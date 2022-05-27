@@ -60,3 +60,32 @@ https://user-images.githubusercontent.com/98374648/169783023-3edb918e-fdb5-4a5e-
 
 https://user-images.githubusercontent.com/98374648/169783036-e950f8a5-fae6-4369-81dd-8978219d7058.mp4
 
+**视觉错误图案**
+
+绘制让人视觉错误的图案
+
+图案1
+
+![image](https://user-images.githubusercontent.com/98374648/170673182-40d4a1a8-b149-4bb8-affa-a84a02964642.png)
+
+
+图案2
+
+![image](https://user-images.githubusercontent.com/98374648/170673297-07ddb365-e6e7-442e-b4d2-60c0686229f8.png)
+
+**加减反弹球**
+
+反弹的随机颜色小球，按“+”好增加一个小球，减号反之
+
+https://user-images.githubusercontent.com/98374648/170676132-c509a558-bcbc-40b8-a6b1-5105e799192c.mp4
+
+**物理反弹球**
+
+模拟一个物理小球抛出的过程，开始给小球设置一个水平初速度和一个垂直初速度，让它在 框内运动，碰撞一次减少部分速度最后停下
+
+https://user-images.githubusercontent.com/98374648/170677641-f6488f2e-130e-46ee-9db7-3510d9c3c958.mp4
+
+
+
+
+
